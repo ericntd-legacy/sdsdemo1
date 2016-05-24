@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_1ec64c352a79a96cd756727b0e3942d2b3ff4723.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_753f9ad0b6f641ae9d8494b55ea98afb39e151f3.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_37b19f6e7e2da0794e11ffc147c82f3ac8bca25a.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_9e612b4e94c42b79a1236f1c128b2b695248e589.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.4.1_c7ead23c2ee3e3a011f68277e3b6f9ad193870bc.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_2d942ed2576c9b412e0ca6a4aa37ea096e520ab5.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.4.1_efb15512cc16cb33fc853ed347dd4116f51defae.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_a9b75ef686e4c728dc615094b271cfc1dcfb0322.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_c3d0f9cc1f22537c6e2d4937c1a0a0c58d2dd1df.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_23a1a54d3f4fb9b90f2ecc12bed0042f400eb246.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.0/8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0/commons-lang3-3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/commons-lang3-3.0_9e80513920e753f90e5a9bfa9b60dcfee53c98eb.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_f0715b59ae50ceddab476e145c8ec98415e1f4a0.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_720c00ff530ab9b44869be11739361289445ebca.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_8e3360fa6eeaf80d3edb2d3939f1f05ec3dde92c.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_226fb16feb03edb42f73e719d45003953d857b05.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.4.1_bef195c1e8fc2f2d31845195af3bab111a829410.jar" />
+    </item>
+    <item
+        jar="/home/eric/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_da20e6ad94034420ad8b0fb3e0539bab4791b5a9.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_cda7d70d34c8642efa9f98f964ba5a780d7452a0.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_8d21a20ca3cb0d402763c662a1120cfe1adf3d93.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_363912e2e3cac4e79c1a3eed9b3a4c647126120b.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.1_d800b4c9d90c795fad9401d4fde58e1c790aa015.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.1_cd2e8ce856122c2f17fe04e2d07d8a6e13f8d74b.jar" />
+    </item>
+    <item
+        jar="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_b869aae6e0296f56945efeaa659c42bc555920ea.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_efcdc98f7240d51a5c99c50074822f15490603b3.jar" />
+    </item>
+    <item
+        jar="/home/eric/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/eric/AndroidStudioProjects/SdsDemo1/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_f7e85ec9991054c3ff2e53b70951b8ab5b3b814b.jar" />
+    </item>
+
+</items>

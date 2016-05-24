@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home" />
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/nav_bnb"
+                android:title="Bath \u0026 Body" />
+            <item
+                android:id="@+id/nav_makeup"
+                android:title="Makeup" />
+            <item
+                android:id="@+id/nav_men"
+                android:title="Men" />
+            <item
+                android:id="@+id/nav_nails"
+                android:title="Nails" />
+            <item
+                android:id="@+id/nav_skincare"
+                android:title="Skincare" />
+            <item
+                android:id="@+id/nav_tools"
+                android:title="Tools" />
+        </menu>
+    </item>
+
+</menu>
